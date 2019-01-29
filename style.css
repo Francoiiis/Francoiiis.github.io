@@ -1,0 +1,37 @@
+/***Global Style***/
+
+h2 {
+    color: rgb(0, 237, 219);
+}
+
+h1 {
+    color: #054465;
+}
+
+body {
+    color: rgba(0, 0, 0, 0.81);
+    background: rgba(255, 158, 158, 0.38);
+}
+
+section {
+    background: rgba(113, 0, 0, 0.37);
+}
+li {
+    color: rgba(255, 0, 0, 0)
+}
+a {
+    color: rgb(0, 20, 255)
+}
+
+/*** SIDEBAR ***/
+
+.pp {
+    border-radius: 100%;
+}
+#sidebar {
+    background: rgba(113, 0, 0, 0.37);
+}
+/***Topbar***/
+#topbar {
+    background: rgba(0, 0, 0, 0)
+}
